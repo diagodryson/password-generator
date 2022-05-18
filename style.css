@@ -43,3 +43,7 @@ label {
    display: flex;
    align-items: center; 
 }
+
+.number-input {
+    width: 2rem;
+}
